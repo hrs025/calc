@@ -1,0 +1,6 @@
+package co.harshsharma025.numeric_system
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
